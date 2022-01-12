@@ -1,6 +1,6 @@
 Informatik Projekt:
 
-Mein Zeitplan ist nicht aufgegangen. Ich hatte geplant in spätetens in der ersten Ferienwoche mit den ersten 10 Kapitel durch bin. Jedoch hatte ich in den Ferien deutlich weniger Zeit als geplant. Dadurch bin ich erst am ende der Ferien mit den 10 Kapiteln durchgekommen. 
+Mein Zeitplan ist nicht aufgegangen. Ich hatte geplant in spätetens in der ersten Ferienwoche mit den ersten 10 Kapitel durch bin. Jedoch hatte ich in den Ferien deutlich weniger Zeit als geplant. Dadurch bin ich erst am vorletzten Tag der Ferien mit den 10 Kapiteln durchgekommen. 
 
 Für mein Informatikprojekt habe ich mich hauptsächlich zweier Quellen bedient:
 
