@@ -1,4 +1,5 @@
 Informatik Projekt:
+Bei Windows muss man noch die SDL2 lib downloaden. dazu gibt es eine READ_ME von sdl2: https://github.com/Rust-SDL2/rust-sdl2/blob/master/README.md
 
 Mein Zeitplan ist nicht aufgegangen. Ich hatte geplant in spätetens in der ersten Ferienwoche mit den ersten 10 Kapitel durch bin. Jedoch hatte ich in den Ferien deutlich weniger Zeit als geplant. Dadurch bin ich erst am vorletzten Tag der Ferien mit den 10 Kapiteln durchgekommen. 
 
