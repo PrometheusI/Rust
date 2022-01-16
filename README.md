@@ -1,5 +1,7 @@
 Informatik Projekt:
-Bei Windows muss man noch die SDL2 lib downloaden. dazu gibt es eine READ_ME von sdl2: https://github.com/Rust-SDL2/rust-sdl2/blob/master/README.md
+Rust website: https://www.rust-lang.org/
+
+Bei Windows muss man für game_old noch die SDL2 lib downloaden. dazu gibt es eine READ_ME von sdl2: https://github.com/Rust-SDL2/rust-sdl2/blob/master/README.md
 
 Mein Zeitplan ist nicht aufgegangen. Ich hatte geplant in spätetens in der ersten Ferienwoche mit den ersten 10 Kapitel durch bin. Jedoch hatte ich in den Ferien deutlich weniger Zeit als geplant. Dadurch bin ich erst am vorletzten Tag der Ferien mit den 10 Kapiteln durchgekommen. 
 
@@ -23,6 +25,8 @@ In dieser Videoreihe geht es um einen Twitch Streamer, der auch erst gerade Rust
 Während des durcharbeiten des Rust Buches hat man auch schon angefangen Programme zu schreiben. Ich besitze aber alle nicht mehr, da ich Probleme mit meinem Linux hatte.
 
 Was ich noch besitzte ist auf github hochgeladen(https://github.com/PrometheusI/Rust/tree/main).
+
+Um programme auszuführen kann man sich entweder eins der Tool, die auch auf der Rust website stehen nutzen oder man kann direkt über ein terminal, wenn man in den entsprechenden Ordner geht, "cargo run" nutzen, um das Projekt zu compilen und auszuführen. 
 
 Guessing_game habe ich mal dokumentiert.
 Median in Chapter 8 ist leicht dokumentiert.
